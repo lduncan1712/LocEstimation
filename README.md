@@ -2,6 +2,8 @@
 
 Test
 
+![Detected Output](https://github.com/lduncan1712/LocEstimation/blob/main/visuals/shortened_output.MP4)
+
 
 ### Gradient Descent Step:
 
