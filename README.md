@@ -7,5 +7,7 @@
 
 <img src="https://github.com/lduncan1712/LocEstimation/blob/18d5b1b6a33b21b4f6b1ba300a80295bd4919138/visuals/shortened_output2-ezgif.com-speed.gif" width="500">
 
+<img src="https://github.com/lduncan1712/LocEstimation/blob/7c3b344f808a4a4ad09c64491bf0ffa421d426d2/visuals/image.png" width=750>
+
 
 ![Inital Random Positions](https://github.com/lduncan1712/LocEstimation/blob/main/visuals/initial_random_pos.png)
