@@ -25,6 +25,7 @@
 ![Shortest Cost](https://github.com/lduncan1712/ShortestPolyIntersecting)
 
 ### Step 3:
+#### After 50-200 Iterations, Of Our Photo Locations Being Moved Towards The Direction That Minimizes This Cost Over All Trees, We Are Left With Something Like The Following (Please Note That This Isnt The Perfect Solution, Only A Local Minima)
 
 ![Test Photo](https://github.com/lduncan1712/LocEstimation/blob/be0b8a91e92d56b01ad73dc50c266aa812a40bd9/visuals/example_end.png)
 
