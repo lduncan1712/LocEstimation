@@ -1,6 +1,6 @@
 # LocEstimation
 
-## Using Image Detection And GeoSpatial Metadata, Track Objects, Placing The Data Into A Database, Then Estimate Their Relative Positions Using A Gradient Descent Algorithm And Custom Heuristic
+## Using Image Detection And GyroScopic Metadata, Track Objects, Placing The Data Into A Database, Then Estimate Their Relative Positions Using A Gradient Descent Algorithm And Custom Heuristic
 
 
 ### 
