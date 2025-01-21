@@ -17,6 +17,11 @@
 
 ### Heuristic
 #### We Define Our Cost Function To The Length Of The Shortest Line That Intersects All Lines (Please find our calculation within this repo)
+<p float="left">
+  <img src="https://github.com/lduncan1712/ShortestPolyIntersecting/blob/b9bc7cb242304bd41bc05b1599e1c6f7b09e4e18/visuals/Screenshot%202025-01-20%20213842.png" width="300" />
+  <img src="https://github.com/lduncan1712/ShortestPolyIntersecting/blob/b9bc7cb242304bd41bc05b1599e1c6f7b09e4e18/visuals/Screenshot%202025-01-20%20214300.png" width="300" />
+  <img src="https://github.com/lduncan1712/ShortestPolyIntersecting/blob/b9bc7cb242304bd41bc05b1599e1c6f7b09e4e18/visuals/Screenshot%202025-01-20%20220801.png" width="300" />
+</p>
 ![Shortest Cost](https://github.com/lduncan1712/ShortestPolyIntersecting)
 
 ### Step 3:
