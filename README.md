@@ -21,3 +21,5 @@
 
 ### Step 3:
 
+![Test Photo](https://github.com/lduncan1712/LocEstimation/blob/be0b8a91e92d56b01ad73dc50c266aa812a40bd9/visuals/example_end.png)
+
