@@ -2,7 +2,6 @@
 
 ## Using Image Detection And GyroScopic Metadata, Track Objects, Placing The Data Into A Database, Then Estimate Their Relative Positions Using A Gradient Descent Algorithm And Custom Heuristic
 
-
 ### Step 1:
 #### Taking A Video Of Surroundings, While Capturing An Image With GyroScopic Data Approximately Once Per Second, Then Using Image Detection To Track These Objects Allows Us To Convert Pixel Locations Within A Frame Into Cardinal Direction, And Gryoscopic Angles, From Which We Place Into The Database I Designed (Please Note Below, Each Line Of The Same Color Represents The Same Tree, And Displays How It Has Moved Within The Lens Between Photos)
 
