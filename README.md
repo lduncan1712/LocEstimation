@@ -5,6 +5,8 @@
 ### Step 1:
 #### Taking A Video Of Surroundings, While Capturing An Image With GyroScopic Data Approximately Once Per Second, Then Using Image Detection To Track These Objects Allows Us To Convert Pixel Locations Within A Frame Into Cardinal Direction, And Gryoscopic Angles, From Which We Place Into The Database I Designed (Please Note Below, Each Line Of The Same Color Represents The Same Tree, And Displays How It Has Moved Within The Lens Between Photos)
 
+#### (Detection Models Used: R-50_depth_60k.pth, ResNext-101_fold_01.pth, X-101_depth_60k.pth, X-101_RGB_60k.pth)
+
 <img src="https://github.com/lduncan1712/LocEstimation/blob/18d5b1b6a33b21b4f6b1ba300a80295bd4919138/visuals/shortened_output2-ezgif.com-speed.gif" width="500">
 <img src="https://github.com/lduncan1712/LocEstimation/blob/7c3b344f808a4a4ad09c64491bf0ffa421d426d2/visuals/image.png" width=750>
 
